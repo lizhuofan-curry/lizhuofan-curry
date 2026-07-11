@@ -6,7 +6,7 @@
 
 **Build to learn. Learn to ship.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-lizhuofan--curry-181717?style=flat-square&logo=github)](https://github.com/lizhuofan-curry)
+[![GitHub](https://img.shields.io/badge/GitHub-lizhuofan--curry-181717?style=flat&logo=github)](https://github.com/lizhuofan-curry)
 
 </div>
 
@@ -30,12 +30,12 @@ class ZhuofanLi:
 
 ## Tech Stack 🧰
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 `LangChain` · `LangGraph` · `Machine Learning` · `Deep Learning`
 
