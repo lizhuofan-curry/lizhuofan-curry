@@ -8,7 +8,7 @@
 
 **Build to learn. Learn to ship.**
 
-[个人网站](https://zhuofan.me) · [同频课表](https://schedule.henubci.cn) · [Agent 学习实验室](https://github.com/lizhuofan-curry/hello-agents-learning-lab) · [学习讨论](https://github.com/lizhuofan-curry/hello-agents-learning-lab/discussions)
+[个人网站](https://zhuofan.me) · [HenuBCI](https://schedule.henubci.cn) · [Agent 学习实验室](https://github.com/lizhuofan-curry/hello-agents-learning-lab) · [学习讨论](https://github.com/lizhuofan-curry/hello-agents-learning-lab/discussions)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 最近在做什么
 
-- 把实验室里“谁有空、几个人何时都有空”的问题做成了 [同频课表](https://github.com/lizhuofan-curry/lab-schedule)：支持教学周与单双周计算、多人共同空闲、开放注册、游客只读、河大同步和图片识别导入，现已通过 HTTPS 部署。
+- 把最初解决“谁有空”的课表工具继续做成了 [HenuBCI](https://github.com/lizhuofan-curry/lab-schedule)：现在同时支持项目小组、任务协作、成果验收、鉴权附件、站内消息和成员近期工作展示，并已部署到正式 HTTPS。
 - 从 ELIZA、ReAct 到多智能体框架，继续维护可运行、可讨论的 [Hello Agents 学习实验室](https://github.com/lizhuofan-curry/hello-agents-learning-lab)。
 - 继续理解 Tokenizer、预训练基础和 AI 学习工具，同时学习 PyTorch 与 EEG / BCI 研究中的可复现实践。
 
@@ -24,7 +24,7 @@
 
 | 项目 | 我在解决什么 | 当前进展 |
 | --- | --- | --- |
-| [同频课表](https://github.com/lizhuofan-curry/lab-schedule) | 为实验室集中维护课表，准确计算个人与多人共同空闲 | 正式 HTTPS 已上线；导入、备份与恢复链路已验收 |
+| [HenuBCI](https://github.com/lizhuofan-curry/lab-schedule) | 把课表、共同空闲、小组、任务、成果和成员工作连成实验室协作闭环 | v2 已上线；正式桌面/移动端业务、权限、备份与恢复链路已验收 |
 | [Hello Agents · 学习实验室](https://github.com/lizhuofan-curry/hello-agents-learning-lab) | 从基础对话程序走到 Agent 原理、框架和自制实现 | 中文导读、代码实验与公开 Discussions 持续更新 |
 | [LLM Pretrain Lab](https://github.com/lizhuofan-curry/LLM_Pretrain) | 从手写 BPE 理解 Tokenizer，再走向训练基础 | Tokenizer、显存 / FLOPs 与分布式训练前置实践中 |
 | [问渠 Wenqu](https://github.com/lizhuofan-curry/wenqu) | 用原文证据、主动回忆和错因诊断辅助阅读 | [在线体验](https://wenqu.zhuofan.me/) |
