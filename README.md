@@ -24,13 +24,13 @@
 
 | 项目 | 我在解决什么 | 当前进展 |
 | --- | --- | --- |
-| [HenuBCI](https://github.com/lizhuofan-curry/lab-schedule) | 把课表、共同空闲、小组、任务、成果和成员工作连成实验室协作闭环 | V3.1 关系图与精确同课关系已上线；支持自然展开、来源核对及可调整的画布设置 |
+| [HenuBCI](https://github.com/lizhuofan-curry/lab-schedule) | 把课表、共同空闲、小组、任务、成果和成员工作连成实验室协作闭环 | V3.1 沉浸式关系图、精确同课及DeepSeek自动内容关联已上线；支持来源核对与纠错反馈 |
 | [Hello Agents · 学习实验室](https://github.com/lizhuofan-curry/hello-agents-learning-lab) | 从基础对话程序走到 Agent 原理、框架和自制实现 | 中文导读、代码实验与公开 Discussions 持续更新 |
 | [LLM Pretrain Lab](https://github.com/lizhuofan-curry/LLM_Pretrain) | 从手写 BPE 理解 Tokenizer，再走向训练基础 | Tokenizer、显存 / FLOPs 与分布式训练前置实践中 |
 | [问渠 Wenqu](https://github.com/lizhuofan-curry/wenqu) | 用原文证据、主动回忆和错因诊断辅助阅读 | [在线体验](https://wenqu.zhuofan.me/) |
 | [拾词 Momo](https://github.com/lizhuofan-curry/momo-reading-assistant) | 从真实英文材料中筛选、审核并复习生词 | [在线体验](https://momo.zhuofan.me/) |
 
-HenuBCI 的关系图采用全窗口画布，支持滚轮缩放、拖动画布与节点，并按连接数量调整节点大小。右上角设置可调整颜色、线宽与布局力度；已知关系可追溯到实际业务来源。DeepSeek 内容关联与纠错反馈代码已实现，正式自动分析仍待人工质量验收，未将其描述为已启用能力。
+HenuBCI 的关系图采用全窗口画布，支持滚轮缩放、拖动画布与节点，并按连接数量调整节点大小。右上角设置可调整颜色、线宽与布局力度；已知关系可追溯到实际业务来源。DeepSeek 内容关联与纠错反馈已上线：自动分析进行中／暂停的工作及当前任务，用细虚线展示有依据的内容联系，支持核对两端来源并反馈不准确的关联。
 
 更多练习与实验：[LLM Full-Stack Journey](https://github.com/lizhuofan-curry/LLM-FullStack-Journey) · [PyTorch 学习实践](https://github.com/lizhuofan-curry/LiuErDaRenPyTorch) · [算法模板库](https://github.com/lizhuofan-curry/algorithm-templates)
 
