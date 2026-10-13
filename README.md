@@ -30,7 +30,7 @@
 | [问渠 Wenqu](https://github.com/lizhuofan-curry/wenqu) | 用原文证据、主动回忆和错因诊断辅助阅读 | [在线体验](https://wenqu.zhuofan.me/) |
 | [拾词 Momo](https://github.com/lizhuofan-curry/momo-reading-assistant) | 从真实英文材料中筛选、审核并复习生词 | [在线体验](https://momo.zhuofan.me/) |
 
-HenuBCI 的关系图采用全窗口画布，支持滚轮缩放、拖动画布与节点，并按连接数量调整节点大小。右上角设置可调整颜色、线宽与布局力度；已知关系可追溯到实际业务来源。DeepSeek 内容关联与纠错反馈已上线：自动分析进行中／暂停的工作及当前任务，用细虚线展示有依据的内容联系，支持核对两端来源并反馈不准确的关联。
+HenuBCI 的关系图采用全窗口画布，支持滚轮缩放、拖动画布与节点，并按连接数量调整节点大小。右上角设置可调整颜色、线宽与布局力度；已知关系可追溯到实际业务来源。DeepSeek 内容关联与纠错反馈已上线：自动分析进行中／暂停的工作及当前任务，用细虚线展示有依据的内容联系，支持核对两端来源并反馈不准确的关联。访问统计采用独立登录的自托管Umami面板，汇总页面浏览、匿名访客估算和主要按钮点击，不记录成员身份或业务正文。
 
 更多练习与实验：[LLM Full-Stack Journey](https://github.com/lizhuofan-curry/LLM-FullStack-Journey) · [PyTorch 学习实践](https://github.com/lizhuofan-curry/LiuErDaRenPyTorch) · [算法模板库](https://github.com/lizhuofan-curry/algorithm-templates)
 
